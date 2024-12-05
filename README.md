@@ -4,7 +4,7 @@ This repository contains data sourced from FPT SOC recordings, handled with stri
 
 ## Directory Structure  
 
-### 1. **`recordFPT - recode`**  
+### 1. **`recordFPT`**  
 - Processes rewritten recording strings.  
 - Formats data to be compatible with Power BI.  
 
